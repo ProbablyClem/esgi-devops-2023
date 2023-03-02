@@ -1,5 +1,6 @@
 name: Bonjour
 on:
+  - pull_request
   - push
 jobs:
   dire_bonjour:
